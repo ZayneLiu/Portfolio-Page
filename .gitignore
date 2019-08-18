@@ -1,18 +1,21 @@
+.DS_Store
+node_modules
+/dist
 
-.idea/dictionaries/Zayne.xml
+# local env files
+.env.local
+.env.*.local
 
-.idea/jsLibraryMappings.xml
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-.idea/modules.xml
-
-.idea/misc.xml
-
-.idea/Portfolio-Page.iml
-
-.idea/vcs.xml
-
-.idea/watcherTasks.xml
-
-.idea/workspace.xml
-
-main.scss
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
