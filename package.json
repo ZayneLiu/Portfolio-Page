@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-page",
+  "version": "1.0.0",
+  "description": "<a href=\"https://zayneliu.github.io/Portfolio-Page/\">https://zayneliu.github.io/Portfolio-Page/</a>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZayneLiu/Portfolio-Page.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.1",
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "typescript": "3.4.3"
+  }
+}
